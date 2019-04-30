@@ -3,9 +3,10 @@ p {
 }
 
 h2 {
-  display: block;
-  margin: auto;
-  text-align: center;
+  margin:auto;
+  line-height:51px;
+  vertical-align:middle;
+  text-align:center;
 }
 
 
