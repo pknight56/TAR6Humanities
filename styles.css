@@ -48,7 +48,8 @@ h2 {
 
 /* Float the link section to the right */
 .header-right {
-  text-align: center;
+  text-align: right;
+  float: right;
 
 }
 
