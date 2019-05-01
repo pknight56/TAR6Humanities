@@ -1,6 +1,6 @@
 <?php
 
-       if(($_POST['username'] == "user1") && ($_POST['pass'] == "pass1"))
+       if(($_POST['username'] == "smanneboina") && ($_POST['pass'] == "TARTigers!"))
 
     { 
 
