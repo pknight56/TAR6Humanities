@@ -17,6 +17,13 @@ localStorage.userEdits = userVersion;
 document.getElementById("update").innerHTML="Edits saved!";
 
 }
+
+function checkEdits() {
+
+//find out if the user has previously saved edits
+if(localStorage.userEdits!=null)
+document.getElementById("edit").innerHTML = localStorage.userEdits;
+}
 </script>
 </head>
 <body onload="checkEdits()">
