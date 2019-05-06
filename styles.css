@@ -359,9 +359,8 @@ span.psw {
 
 
 #rectangle {
-  position:absolute;
-  left:0;
-  right:0;
+ width: 1906px;
+  height: 100px;
   background:white;
 }
 
