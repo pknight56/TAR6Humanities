@@ -359,9 +359,14 @@ span.psw {
 
 
 #rectangle {
-    width: 100%;
-    height: 1000px;
-    background-color: #fffff;
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;;
 }
 
 
