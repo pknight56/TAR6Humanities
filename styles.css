@@ -358,15 +358,13 @@ span.psw {
 
 
 
-#rectangle {
-  float: left;
-  color: white;
-  text-align: center;
-  padding: 12px;
-  text-decoration: none;
-  font-size: 18px; 
-  line-height: 25px;
-  border-radius: 4px;;
+div {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: calc(100% - 100px);
+  height: 100px;
+  background: red;
 }
 
 
