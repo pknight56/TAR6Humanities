@@ -359,7 +359,7 @@ span.psw {
 
 
 #white {
-  position: absolute;
+  position: 300px;
   top: 0;
   right: 0;
   width: calc(100% - 0px);
